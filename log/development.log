@@ -377,3 +377,138 @@ Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
 Processing GalleryController#index (for 127.0.0.1 at 2010-03-23 23:31:21) [GET]
 Rendering gallery/index
 Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:33:27) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:33:41) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-03-24 17:33:48) [GET]
+Rendering welcome/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:33:53) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:40:16) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:41:12) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:41:57) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-03-24 17:43:00) [GET]
+Rendering welcome/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:45:19) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:47:40) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:48:08) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:50:45) [GET]
+Rendering gallery/index
+Completed in 14ms (View: 13, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:51:11) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:51:13) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:51:31) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:51:32) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:51:44) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:51:45) [GET]
+Rendering gallery/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:52:45) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:53:10) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:55:12) [GET]
+Rendering gallery/index
+Completed in 17ms (View: 16, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:55:19) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:55:29) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:55:38) [GET]
+Rendering gallery/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:55:47) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 17:55:57) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 18:00:10) [GET]
+Rendering gallery/index
+Completed in 23ms (View: 21, DB: 0) | 200 OK [http://localhost/gallery]

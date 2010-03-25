@@ -54,3 +54,8 @@ body {
 	width:98.6%;
 	border-top: 3px solid black;
   }
+
+  .images {
+	margin: 20px;
+	float: left;
+}
