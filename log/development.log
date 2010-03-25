@@ -512,3 +512,190 @@ Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
 Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 18:00:10) [GET]
 Rendering gallery/index
 Completed in 23ms (View: 21, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-03-24 21:16:39) [GET]
+Rendering welcome/index
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/welcome]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:16:46) [GET]
+Rendering gallery/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:28:08) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:30:06) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:32:42) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:33:06) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:34:06) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:34:15) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:35:53) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:36:04) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:36:05) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:37:41) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:40:14) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:41:00) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:44:18) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-03-24 21:44:41) [GET]
+Rendering welcome/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:44:46) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-03-24 21:45:02) [GET]
+Rendering welcome/index
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:45:18) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:48:03) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-03-24 21:48:27) [GET]
+Rendering welcome/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:48:37) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:50:06) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:50:59) [GET]
+Rendering gallery/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:52:14) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-03-24 21:53:33) [GET]
+Rendering welcome/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 21:53:38) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 22:00:23) [GET]
+Rendering gallery/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 22:01:06) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 22:01:17) [GET]
+Rendering gallery/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-24 22:01:20) [GET]
+
+ActionController::RoutingError (No route matches "/gallery/op4.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing GalleryController#index (for 127.0.0.1 at 2010-03-24 22:02:27) [GET]
+Rendering gallery/index
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/gallery]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-24 22:02:32) [GET]
+
+ActionController::RoutingError (No route matches "/gallery/op4.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-24 22:03:03) [GET]
+
+ActionController::RoutingError (No route matches "/gallery/op4.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-24 22:03:04) [GET]
+
+ActionController::RoutingError (No route matches "/gallery/op4.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
