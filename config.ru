@@ -1,2 +1,2 @@
-require 'renaker'
+require 'renakersite'
 run Sinatra::Application
