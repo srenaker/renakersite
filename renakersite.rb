@@ -58,9 +58,61 @@ get '/slideshow/9' do
 end
 
 get '/slideshow/10' do
-  erb :slide102
+  erb :slide10
 end
 
 get '/slideshow/11' do
   erb :slide11
+end
+
+get '/slideshow/12' do
+  erb :slide12
+end
+
+get '/slideshow/13' do
+  erb :slide13
+end
+
+get '/slideshow/14' do
+  erb :slide14
+end
+
+get '/slideshow/15' do
+  erb :slide15
+end
+
+get '/slideshow/16' do
+  erb :slide16
+end
+
+get '/slideshow/17' do
+  erb :slide17
+end
+
+get '/slideshow/18' do
+  erb :slide18
+end
+
+get '/slideshow/19' do
+  erb :slide19
+end
+
+get '/slideshow/20' do
+  erb :slide20
+end
+
+get '/slideshow/21' do
+  erb :slide21
+end
+
+get '/slideshow/22' do
+  erb :slide22
+end
+
+get '/slideshow/23' do
+  erb :slide23
+end
+
+get '/slideshow/24' do
+  erb :slide24
 end
