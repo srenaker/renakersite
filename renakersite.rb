@@ -116,3 +116,17 @@ end
 get '/slideshow/24' do
   erb :slide24
 end
+
+get '/keys/login' do
+  erb :login
+end
+
+post '/keys/photobook' do
+  if params[:uname] == 'keys' && params[:pword] == '2018'
+    erb :photobook
+  else 
+    redirect '/keys/login'
+  end
+end
+
+
