@@ -123,7 +123,7 @@ end
 
 post '/keys/photobook' do
   if params[:uname] == 'keys' && params[:pword] == '2018'
-    erb :photobook
+    erb :photobook2
   else 
     redirect '/keys/login'
   end
