@@ -1,6 +1,10 @@
 require 'rubygems'
 require 'sinatra'
 
+get '/gallery/op5' do
+  erb :op5
+end
+
 get '/gallery/op4' do
   erb :op4
 end
